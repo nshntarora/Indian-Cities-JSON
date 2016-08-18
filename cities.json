@@ -6078,5 +6078,20 @@
         "id": "1216",
         "name": "Gandhinagar",
         "state": "Gujarat"
-    }
+    },
++    {
++        "id":1217,
++        "name":"Kullu",
++        "state":"Himachal Pradesh"
++    },
++    {
++        "id":1218,
++        "name":"Manali",
++        "state":"Himachal Praddesh"
++    },
++    {
++        "id":1219,
++        "name":"Mirzapur",
++        "state":"Uttar Pradesh"
+     }
 ]
