@@ -6096,7 +6096,12 @@
     },
     {
         "id":"1220",
-        "name":"Dispur",
-        "state":"Assam"
+        "name":"Kota",
+        "state":"Rajasthan"
+    },
+    {
+      "id":"1221",
+       "name":"Dispur",
+       "state":"Assam"
     }
 ]
