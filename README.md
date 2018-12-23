@@ -1,5 +1,5 @@
 # Indian Cities JSON
-a json file containing 1215 indian cities and their respective states
+a json file containing 1220 indian cities and their respective states
 
 After hundreds of unsuccessful searches for a rails gem to add the cities and states select option which could work the way I wanted it to, I gave up. Then, I began searching for a .json from which I could directly fetch the information and make it work, there too, I failed, I couldn't find the "perfect" file.
 

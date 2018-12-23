@@ -6093,5 +6093,10 @@
         "id":"1219",
         "name":"Mirzapur",
         "state":"Uttar Pradesh"
+    },
+    {
+        "id":"1220",
+        "name":"Kota",
+        "state":"Rajasthan"
     }
 ]
