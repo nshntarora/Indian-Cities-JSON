@@ -6103,5 +6103,50 @@
       "id":"1221",
        "name":"Dispur",
        "state":"Assam"
+    },
+    {
+        "id":"1222",
+        "name":"Ernakulam",
+        "state":"Kerala"
+    },
+    {
+        "id":"1223",
+        "name":"Irinjalakuda",
+        "state":"Kerala"
+    },
+    {
+        "id":"1224",
+        "name":"Manjeri",
+        "state":"Kerala"
+    },
+    {
+        "id":"1225",
+        "name":"Thalassery",
+        "state":"Kerala"
+    },
+    {
+        "id":"1226",
+        "name":"Thrippunithura",
+        "state":"Kerala"
+    },
+    {
+        "id":"1227",
+        "name":"Thrikkakkara",
+        "state":"Kerala"
+    },
+    {
+        "id":"1228",
+        "name":"Parappanangadi",
+        "state":"Kerala"
+    },
+    {
+        "id":"1229",
+        "name":"Kalamassery",
+        "state":"Kerala"
+    },
+    {
+        "id":"1230",
+        "name":"Tanur",
+        "state":"Kerala"
     }
 ]
