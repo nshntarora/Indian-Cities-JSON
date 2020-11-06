@@ -3541,7 +3541,7 @@
     },
     {
         "id": "709",
-        "name": "Shoranur",
+        "name": "Shornur",
         "state": "Kerala"
     },
     {
@@ -3731,7 +3731,7 @@
     },
     {
         "id": "747",
-        "name": "Paravoor",
+        "name": "Paravur",
         "state": "Kerala"
     },
     {
@@ -6147,6 +6147,101 @@
     {
         "id":"1230",
         "name":"Tanur",
+        "state":"Kerala"
+    },
+    {
+        "id":"1231",
+        "name":"Beypore",
+        "state":"Kerala"
+    },
+    {
+        "id":"1232",
+        "name":"Kondotty",
+        "state":"Kerala"
+    },
+    {
+        "id":"1233",
+        "name":"Tirurangadi",
+        "state":"Kerala"
+    },
+    {
+        "id":"1234",
+        "name":"Nileshwaram",
+        "state":"Kerala"
+    },
+    {
+        "id":"1235",
+        "name":"Tiruvalla",
+        "state":"Kerala"
+    },
+    {
+        "id":"1236",
+        "name":"Uppala",
+        "state":"Kerala"
+    },
+    {
+        "id":"1237",
+        "name":"Karunagappalli",
+        "state":"Kerala"
+    },
+    {
+        "id":"1238",
+        "name":"Kottarakara",
+        "state":"Kerala"
+    },
+    {
+        "id":"1239",
+        "name":"Maradu",
+        "state":"Kerala"
+    },
+    {
+        "id":"1240",
+        "name":"Kottakkal",
+        "state":"Kerala"
+    },
+    {
+        "id":"1241",
+        "name":"Valanchery",
+        "state":"Kerala"
+    },
+    {
+        "id":"1242",
+        "name":"Chavakkad",
+        "state":"Kerala"
+    },
+    {
+        "id":"1243",
+        "name":"Kattappana",
+        "state":"Kerala"
+    },
+    {
+        "id":"1244",
+        "name":"Anchal",
+        "state":"Kerala"
+    },
+    {
+        "id":"1245",
+        "name":"Ramanattukara",
+        "state":"Kerala"
+    },
+    {
+        "id":"1246",
+        "name":"Pandalam",
+        "state":"Kerala"
+    },
+    {
+        "id":"1247",
+        "name":"Kalpetta",
+        "state":"Kerala"
+    },
+    {
+        "id":"1248",
+        "name":"Sulthan Bathery",
+        "state":"Kerala"
+    },
+    {
+        "id":"1249",
+        "name":"Mananthavady",
         "state":"Kerala"
     }
 ]
