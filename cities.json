@@ -6103,5 +6103,51 @@
       "id":"1221",
        "name":"Dispur",
        "state":"Assam"
-    }
+    },
+    {
+        "id":"1222",
+         "name":"Dandeli",
+         "state":"Karnataka"
+      },
+      {
+        "id":"1223",
+         "name":"Haliyal",
+         "state":"Karnataka"
+      },
+      {
+        "id":"1224",
+         "name":"Mundagod",
+         "state":"Karnataka"
+      },
+      {
+        "id":"1225",
+         "name":"Yellapur",
+         "state":"Karnataka"
+      },
+      {
+        "id":"1226",
+         "name":"Ankola",
+         "state":"Karnataka"
+      },
+      {
+        "id":"1227",
+         "name":"Kumta",
+         "state":"Karnataka"
+      },
+      {
+        "id":"1228",
+         "name":"Bhatkal",
+         "state":"Karnataka"
+      },
+      {
+        "id":"1228",
+         "name":"Honnavar",
+         "state":"Karnataka"
+      },
+      {
+        "id":"1229",
+         "name":"Siddapur",
+         "state":"Karnataka"
+      }
+      
 ]
