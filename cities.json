@@ -6080,28 +6080,33 @@
         "state": "Gujarat"
     },
     {
-        "id":"1217",
-        "name":"Kullu",
-        "state":"Himachal Pradesh"
+        "id": "1217",
+        "name": "Kullu",
+        "state": "Himachal Pradesh"
     },
     {
-        "id":"1218",
-        "name":"Manali",
-        "state":"Himachal Praddesh"
+        "id": "1218",
+        "name": "Manali",
+        "state": "Himachal Praddesh"
     },
     {
-        "id":"1219",
-        "name":"Mirzapur",
-        "state":"Uttar Pradesh"
+        "id": "1219",
+        "name": "Mirzapur",
+        "state": "Uttar Pradesh"
     },
     {
-        "id":"1220",
-        "name":"Kota",
-        "state":"Rajasthan"
+        "id": "1220",
+        "name": "Kota",
+        "state": "Rajasthan"
     },
     {
-      "id":"1221",
-       "name":"Dispur",
-       "state":"Assam"
+        "id": "1221",
+        "name": "Dispur",
+        "state": "Assam"
+    },
+    {
+        "id": "1222",
+        "name": "Secunderabad",
+        "state": "Telangana"
     }
 ]
