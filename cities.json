@@ -5822,7 +5822,7 @@
     {
         "id": "1165",
         "name": "Maharajganj",
-        "state": "Bihar"
+        "state": "Uttar Pradesh"
     },
     {
         "id": "1166",
@@ -6103,5 +6103,35 @@
       "id":"1221",
        "name":"Dispur",
        "state":"Assam"
+    },
+    {
+        "id":"1222",
+        "name":"Deoria",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "id":"1223",
+        "name":"Ballia",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "id":"1224",
+        "name":"Awagarh",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "id":"1225",
+        "name":"Akbarpur",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "id":"1226",
+        "name":"Barabanki",
+        "state":"Uttar Pradesh"
+    },
+    {
+        "id":"1227",
+        "name":"Jaunpur",
+        "state":"Uttar Pradesh"
     }
 ]

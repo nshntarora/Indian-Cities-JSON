@@ -2697,7 +2697,7 @@
     },
     "akria": {
         "city": "akria",
-        "accentcity": "Ákria",
+        "accentcity": "ï¿½kria",
         "region": "09",
         "population": null,
         "latitude": "22.1",
@@ -3065,7 +3065,7 @@
     },
     "alchi gompa": {
         "city": "alchi gompa",
-        "accentcity": "Alchi Gömpa",
+        "accentcity": "Alchi Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "34.216667",
@@ -3185,7 +3185,7 @@
     },
     "alibagh": {
         "city": "alibagh",
-        "accentcity": "Alibágh",
+        "accentcity": "Alibï¿½gh",
         "region": "16",
         "population": null,
         "latitude": "18.641111",
@@ -7417,7 +7417,7 @@
     },
     "aprunyi": {
         "city": "aprunyi",
-        "accentcity": "Aprünyi",
+        "accentcity": "Aprï¿½nyi",
         "region": "30",
         "population": null,
         "latitude": "28.583333",
@@ -9470,6 +9470,14 @@
         "population": null,
         "latitude": "15.183333",
         "longitude": "73.966667"
+    },
+    "awagarh":{
+        "city": "awagarh",
+        "accentcity": "Awargarh",
+        "region": "33",
+        "population": null,
+        "latitude": "27.441900",
+        "longitude": "78.486397"
     },
     "assonora": {
         "city": "assonora",
@@ -12097,7 +12105,7 @@
     },
     "badnur": {
         "city": "badnur",
-        "accentcity": "Badnúr",
+        "accentcity": "Badnï¿½r",
         "region": "35",
         "population": null,
         "latitude": "21.915278",
@@ -15812,8 +15820,8 @@
         "accentcity": "Ballia",
         "region": "36",
         "population": null,
-        "latitude": "28.2",
-        "longitude": "79.366667"
+        "latitude": "25.83333000",
+        "longitude": "84.16667000"
     },
     "balli": {
         "city": "balli",
@@ -22105,7 +22113,7 @@
     },
     "barwara kalan": {
         "city": "barwara kalan",
-        "accentcity": "Barwára Kalán",
+        "accentcity": "Barwï¿½ra Kalï¿½n",
         "region": "35",
         "population": null,
         "latitude": "23.733333",
@@ -23633,7 +23641,7 @@
     },
     "bavliali": {
         "city": "bavliali",
-        "accentcity": "Bávliáli",
+        "accentcity": "Bï¿½vliï¿½li",
         "region": "09",
         "population": null,
         "latitude": "22.083333",
@@ -37857,7 +37865,7 @@
     },
     "burdun gompa": {
         "city": "burdun gompa",
-        "accentcity": "Burdun Gömpa",
+        "accentcity": "Burdun Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "33.4",
@@ -38321,7 +38329,7 @@
     },
     "buxivara": {
         "city": "buxivara",
-        "accentcity": "Buxivará",
+        "accentcity": "Buxivarï¿½",
         "region": "09",
         "population": null,
         "latitude": "20.716667",
@@ -38513,7 +38521,7 @@
     },
     "calicaxigao": {
         "city": "calicaxigao",
-        "accentcity": "Calicaxigão",
+        "accentcity": "Calicaxigï¿½o",
         "region": "32",
         "population": null,
         "latitude": "20.383333",
@@ -38681,7 +38689,7 @@
     },
     "cansarvornem": {
         "city": "cansarvornem",
-        "accentcity": "Cansarvorném",
+        "accentcity": "Cansarvornï¿½m",
         "region": "33",
         "population": null,
         "latitude": "15.716667",
@@ -38761,7 +38769,7 @@
     },
     "cararpara": {
         "city": "cararpara",
-        "accentcity": "Cararpará",
+        "accentcity": "Cararparï¿½",
         "region": "06",
         "population": null,
         "latitude": "20.25",
@@ -38801,7 +38809,7 @@
     },
     "cassabe de bicholim": {
         "city": "cassabe de bicholim",
-        "accentcity": "Cassabé de Bicholim",
+        "accentcity": "Cassabï¿½ de Bicholim",
         "region": "33",
         "population": null,
         "latitude": "15.6",
@@ -38809,7 +38817,7 @@
     },
     "cassabe-de-pernem": {
         "city": "cassabe-de-pernem",
-        "accentcity": "Cassabé-de-Pernem",
+        "accentcity": "Cassabï¿½-de-Pernem",
         "region": "33",
         "population": null,
         "latitude": "15.716667",
@@ -38817,7 +38825,7 @@
     },
     "cassabe de ponda": {
         "city": "cassabe de ponda",
-        "accentcity": "Cassabé de Pondá",
+        "accentcity": "Cassabï¿½ de Pondï¿½",
         "region": "33",
         "population": null,
         "latitude": "15.4",
@@ -50225,7 +50233,7 @@
     },
     "colem": {
         "city": "colem",
-        "accentcity": "Colém",
+        "accentcity": "Colï¿½m",
         "region": "33",
         "population": null,
         "latitude": "15.35",
@@ -50417,7 +50425,7 @@
     },
     "conxem": {
         "city": "conxem",
-        "accentcity": "Conxém",
+        "accentcity": "Conxï¿½m",
         "region": "33",
         "population": null,
         "latitude": "15.35",
@@ -50481,7 +50489,7 @@
     },
     "corchirem": {
         "city": "corchirem",
-        "accentcity": "Corchirém",
+        "accentcity": "Corchirï¿½m",
         "region": "33",
         "population": null,
         "latitude": "15.6",
@@ -51361,7 +51369,7 @@
     },
     "dadara": {
         "city": "dadara",
-        "accentcity": "Dadará",
+        "accentcity": "Dadarï¿½",
         "region": "06",
         "population": null,
         "latitude": "20.316667",
@@ -53433,7 +53441,7 @@
     },
     "dankhar gompa": {
         "city": "dankhar gompa",
-        "accentcity": "Dankhar Gömpa",
+        "accentcity": "Dankhar Gï¿½mpa",
         "region": "11",
         "population": null,
         "latitude": "32.083333",
@@ -56793,7 +56801,7 @@
     },
     "derawali": {
         "city": "derawali",
-        "accentcity": "Deráwáli",
+        "accentcity": "Derï¿½wï¿½li",
         "region": "09",
         "population": null,
         "latitude": "22.316667",
@@ -68449,7 +68457,7 @@
     },
     "forte de nagoa": {
         "city": "forte de nagoa",
-        "accentcity": "Forte de Nagoá",
+        "accentcity": "Forte de Nagoï¿½",
         "region": "09",
         "population": null,
         "latitude": "20.716667",
@@ -70297,7 +70305,7 @@
     },
     "gandpa gompa": {
         "city": "gandpa gompa",
-        "accentcity": "Gandpa Gömpa",
+        "accentcity": "Gandpa Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "33.316667",
@@ -76665,7 +76673,7 @@
     },
     "golonda": {
         "city": "golonda",
-        "accentcity": "Golondá",
+        "accentcity": "Golondï¿½",
         "region": "06",
         "population": null,
         "latitude": "20.283333",
@@ -76793,7 +76801,7 @@
     },
     "gompa": {
         "city": "gompa",
-        "accentcity": "Gömpa",
+        "accentcity": "Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "35.033333",
@@ -84521,7 +84529,7 @@
     },
     "hatkanagale": {
         "city": "hatkanagale",
-        "accentcity": "Hátkanagale",
+        "accentcity": "Hï¿½tkanagale",
         "region": "16",
         "population": null,
         "latitude": "16.733333",
@@ -85121,7 +85129,7 @@
     },
     "henoaha": {
         "city": "henoaha",
-        "accentcity": "Henóaha",
+        "accentcity": "Henï¿½aha",
         "region": "01",
         "population": null,
         "latitude": "6.816667",
@@ -85409,7 +85417,7 @@
     },
     "himis gompa": {
         "city": "himis gompa",
-        "accentcity": "Himis Gömpa",
+        "accentcity": "Himis Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "33.9",
@@ -87753,7 +87761,7 @@
     },
     "idar": {
         "city": "idar",
-        "accentcity": "Ïdar",
+        "accentcity": "ï¿½dar",
         "region": "09",
         "population": "31316",
         "latitude": "23.833333",
@@ -87881,7 +87889,7 @@
     },
     "ij": {
         "city": "ij",
-        "accentcity": "Ïj",
+        "accentcity": "ï¿½j",
         "region": "02",
         "population": null,
         "latitude": "16.016667",
@@ -88601,7 +88609,7 @@
     },
     "int": {
         "city": "int",
-        "accentcity": "Ïnt",
+        "accentcity": "ï¿½nt",
         "region": "16",
         "population": null,
         "latitude": "18.616667",
@@ -88689,7 +88697,7 @@
     },
     "irakam": {
         "city": "irakam",
-        "accentcity": "Ïrakam",
+        "accentcity": "ï¿½rakam",
         "region": "25",
         "population": null,
         "latitude": "13.566667",
@@ -88921,7 +88929,7 @@
     },
     "isgaon": {
         "city": "isgaon",
-        "accentcity": "Ïsgaon",
+        "accentcity": "ï¿½sgaon",
         "region": "16",
         "population": null,
         "latitude": "19.95",
@@ -88993,7 +89001,7 @@
     },
     "ishwarpur": {
         "city": "ishwarpur",
-        "accentcity": "Ïshwarpur",
+        "accentcity": "ï¿½shwarpur",
         "region": "21",
         "population": null,
         "latitude": "21.366667",
@@ -94025,7 +94033,7 @@
     },
     "jaytapur": {
         "city": "jaytapur",
-        "accentcity": "Jaytápur",
+        "accentcity": "Jaytï¿½pur",
         "region": "16",
         "population": null,
         "latitude": "16.616667",
@@ -105305,7 +105313,7 @@
     },
     "karadga": {
         "city": "karadga",
-        "accentcity": "Káradga",
+        "accentcity": "Kï¿½radga",
         "region": "16",
         "population": null,
         "latitude": "16.566667",
@@ -106881,7 +106889,7 @@
     },
     "karnadi": {
         "city": "karnadi",
-        "accentcity": "Karnádi",
+        "accentcity": "Karnï¿½di",
         "region": "09",
         "population": null,
         "latitude": "20.233333",
@@ -107553,7 +107561,7 @@
     },
     "karzok gompa": {
         "city": "karzok gompa",
-        "accentcity": "Karzok Gömpa",
+        "accentcity": "Karzok Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "32.966667",
@@ -123113,7 +123121,7 @@
     },
     "koyul": {
         "city": "koyul",
-        "accentcity": "Koyül",
+        "accentcity": "Koyï¿½l",
         "region": "12",
         "population": null,
         "latitude": "32.883333",
@@ -125017,7 +125025,7 @@
     },
     "kumarwa": {
         "city": "kumarwa",
-        "accentcity": "Kumarwá",
+        "accentcity": "Kumarwï¿½",
         "region": "35",
         "population": null,
         "latitude": "23.566667",
@@ -126833,7 +126841,7 @@
     },
     "kursha gompa": {
         "city": "kursha gompa",
-        "accentcity": "Kursha Gömpa",
+        "accentcity": "Kursha Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "33.55",
@@ -130625,7 +130633,7 @@
     },
     "lao": {
         "city": "lao",
-        "accentcity": "Laö",
+        "accentcity": "Laï¿½",
         "region": "17",
         "population": null,
         "latitude": "25.5",
@@ -131273,7 +131281,7 @@
     },
     "lau": {
         "city": "lau",
-        "accentcity": "Laü",
+        "accentcity": "Laï¿½",
         "region": "17",
         "population": null,
         "latitude": "25.5",
@@ -131817,7 +131825,7 @@
     },
     "lhatsa gompa": {
         "city": "lhatsa gompa",
-        "accentcity": "Lhatsa Gömpa",
+        "accentcity": "Lhatsa Gï¿½mpa",
         "region": "30",
         "population": null,
         "latitude": "28.683333",
@@ -134481,7 +134489,7 @@
     },
     "madana": {
         "city": "madana",
-        "accentcity": "Madána",
+        "accentcity": "Madï¿½na",
         "region": "16",
         "population": null,
         "latitude": "21.583333",
@@ -136027,9 +136035,9 @@
         "city": "maharajganj",
         "accentcity": "Maharajganj",
         "region": "36",
-        "population": "30551",
-        "latitude": "27.133333",
-        "longitude": "83.566667"
+        "population": "3,360,000",
+        "latitude": "27.144604",
+        "longitude": "83.562172"
     },
     "maharaji": {
         "city": "maharaji",
@@ -143593,7 +143601,7 @@
     },
     "margao": {
         "city": "margao",
-        "accentcity": "Margão",
+        "accentcity": "Margï¿½o",
         "region": "33",
         "population": null,
         "latitude": "15.3",
@@ -147993,7 +148001,7 @@
     },
     "migyitun gompa": {
         "city": "migyitun gompa",
-        "accentcity": "Migyitün Gompa",
+        "accentcity": "Migyitï¿½n Gompa",
         "region": "30",
         "population": null,
         "latitude": "28.666667",
@@ -150097,7 +150105,7 @@
     },
     "mon tawang": {
         "city": "mon tawang",
-        "accentcity": "Mön Tawang",
+        "accentcity": "Mï¿½n Tawang",
         "region": "30",
         "population": null,
         "latitude": "27.583333",
@@ -155569,7 +155577,7 @@
     },
     "nagoa": {
         "city": "nagoa",
-        "accentcity": "Nagoá",
+        "accentcity": "Nagoï¿½",
         "region": "09",
         "population": null,
         "latitude": "20.716667",
@@ -155593,7 +155601,7 @@
     },
     "nagorcem": {
         "city": "nagorcem",
-        "accentcity": "Nagorcém",
+        "accentcity": "Nagorcï¿½m",
         "region": "33",
         "population": null,
         "latitude": "15.016667",
@@ -161513,7 +161521,7 @@
     },
     "nedoucadou": {
         "city": "nedoucadou",
-        "accentcity": "Nédoucadou",
+        "accentcity": "Nï¿½doucadou",
         "region": "22",
         "population": null,
         "latitude": "10.966667",
@@ -166105,7 +166113,7 @@
     },
     "omersari": {
         "city": "omersari",
-        "accentcity": "Omersári",
+        "accentcity": "Omersï¿½ri",
         "region": "09",
         "population": null,
         "latitude": "20.516667",
@@ -171937,7 +171945,7 @@
     },
     "parada": {
         "city": "parada",
-        "accentcity": "Paradá",
+        "accentcity": "Paradï¿½",
         "region": "33",
         "population": null,
         "latitude": "15.216667",
@@ -176289,7 +176297,7 @@
     },
     "peligao": {
         "city": "peligao",
-        "accentcity": "Peligão",
+        "accentcity": "Peligï¿½o",
         "region": "33",
         "population": null,
         "latitude": "15.55",
@@ -176729,7 +176737,7 @@
     },
     "perinjambakkam": {
         "city": "perinjambakkam",
-        "accentcity": "Perinjambâkkam",
+        "accentcity": "Perinjambï¿½kkam",
         "region": "25",
         "population": null,
         "latitude": "12.892778",
@@ -178065,7 +178073,7 @@
     },
     "phuktal gompa": {
         "city": "phuktal gompa",
-        "accentcity": "Phuktal Gömpa",
+        "accentcity": "Phuktal Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "33.266667",
@@ -180777,7 +180785,7 @@
     },
     "polem": {
         "city": "polem",
-        "accentcity": "Polém",
+        "accentcity": "Polï¿½m",
         "region": "33",
         "population": null,
         "latitude": "14.916667",
@@ -180945,7 +180953,7 @@
     },
     "pondicheri": {
         "city": "pondicheri",
-        "accentcity": "Pondichéri",
+        "accentcity": "Pondichï¿½ri",
         "region": "22",
         "population": null,
         "latitude": "11.93",
@@ -180961,7 +180969,7 @@
     },
     "pondichery": {
         "city": "pondichery",
-        "accentcity": "Pondichéry",
+        "accentcity": "Pondichï¿½ry",
         "region": "22",
         "population": null,
         "latitude": "11.93",
@@ -188233,7 +188241,7 @@
     },
     "randa pequeno": {
         "city": "randa pequeno",
-        "accentcity": "Randá Pequeno",
+        "accentcity": "Randï¿½ Pequeno",
         "region": "06",
         "population": null,
         "latitude": "20.283333",
@@ -188241,7 +188249,7 @@
     },
     "randa": {
         "city": "randa",
-        "accentcity": "Randá",
+        "accentcity": "Randï¿½",
         "region": "06",
         "population": null,
         "latitude": "20.3",
@@ -191841,7 +191849,7 @@
     },
     "ringdom gompa": {
         "city": "ringdom gompa",
-        "accentcity": "Ringdom Gömpa",
+        "accentcity": "Ringdom Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "34.033333",
@@ -193417,7 +193425,7 @@
     },
     "rupnyal": {
         "city": "rupnyal",
-        "accentcity": "Rupnyál",
+        "accentcity": "Rupnyï¿½l",
         "region": "19",
         "population": null,
         "latitude": "16.5",
@@ -197657,7 +197665,7 @@
     },
     "sancordam": {
         "city": "sancordam",
-        "accentcity": "Sancordám",
+        "accentcity": "Sancordï¿½m",
         "region": "33",
         "population": null,
         "latitude": "15.4",
@@ -201025,7 +201033,7 @@
     },
     "saspul gompa": {
         "city": "saspul gompa",
-        "accentcity": "Saspul Gömpa",
+        "accentcity": "Saspul Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "34.25",
@@ -206945,7 +206953,7 @@
     },
     "sibsagar road": {
         "city": "sibsagar road",
-        "accentcity": "Sibságar Road",
+        "accentcity": "Sibsï¿½gar Road",
         "region": "03",
         "population": null,
         "latitude": "26.916667",
@@ -209569,7 +209577,7 @@
     },
     "sircodem": {
         "city": "sircodem",
-        "accentcity": "Sirçodem",
+        "accentcity": "Sirï¿½odem",
         "region": "33",
         "population": null,
         "latitude": "15.5",
@@ -209617,7 +209625,7 @@
     },
     "sirgao": {
         "city": "sirgao",
-        "accentcity": "Sirgão",
+        "accentcity": "Sirgï¿½o",
         "region": "33",
         "population": null,
         "latitude": "15.6",
@@ -209689,7 +209697,7 @@
     },
     "siridao": {
         "city": "siridao",
-        "accentcity": "Siridão",
+        "accentcity": "Siridï¿½o",
         "region": "33",
         "population": null,
         "latitude": "15.433333",
@@ -214377,7 +214385,7 @@
     },
     "sumchum gompa": {
         "city": "sumchum gompa",
-        "accentcity": "Sumchum Gömpa",
+        "accentcity": "Sumchum Gï¿½mpa",
         "region": "12",
         "population": null,
         "latitude": "33.566667",
@@ -218473,7 +218481,7 @@
     },
     "tanbesra": {
         "city": "tanbesra",
-        "accentcity": "Tánbesra",
+        "accentcity": "Tï¿½nbesra",
         "region": "24",
         "population": null,
         "latitude": "23.266667",
@@ -225889,7 +225897,7 @@
     },
     "toibalewe": {
         "city": "toibalewe",
-        "accentcity": "Toibálewé",
+        "accentcity": "Toibï¿½lewï¿½",
         "region": "01",
         "population": null,
         "latitude": "10.533333",
@@ -228257,7 +228265,7 @@
     },
     "tutikorin": {
         "city": "tutikorin",
-        "accentcity": "Tutikorín",
+        "accentcity": "Tutikorï¿½n",
         "region": "25",
         "population": null,
         "latitude": "8.783333",
@@ -231777,7 +231785,7 @@
     },
     "vadem": {
         "city": "vadem",
-        "accentcity": "Vadém",
+        "accentcity": "Vadï¿½m",
         "region": "33",
         "population": null,
         "latitude": "15.4",
@@ -233193,7 +233201,7 @@
     },
     "vanta": {
         "city": "vanta",
-        "accentcity": "Vánta",
+        "accentcity": "Vï¿½nta",
         "region": "09",
         "population": null,
         "latitude": "22.483333",
@@ -233665,7 +233673,7 @@
     },
     "vassona": {
         "city": "vassona",
-        "accentcity": "Vassoná",
+        "accentcity": "Vassonï¿½",
         "region": "06",
         "population": null,
         "latitude": "20.2",
@@ -234121,7 +234129,7 @@
     },
     "velavadar": {
         "city": "velavadar",
-        "accentcity": "Velávadar",
+        "accentcity": "Velï¿½vadar",
         "region": "09",
         "population": null,
         "latitude": "21.366667",
@@ -234345,7 +234353,7 @@
     },
     "velugao": {
         "city": "velugao",
-        "accentcity": "Velugão",
+        "accentcity": "Velugï¿½o",
         "region": "06",
         "population": null,
         "latitude": "20.133333",
@@ -237849,7 +237857,7 @@
     },
     "watar": {
         "city": "watar",
-        "accentcity": "Wátár",
+        "accentcity": "Wï¿½tï¿½r",
         "region": "16",
         "population": null,
         "latitude": "17.883333",
@@ -238649,7 +238657,7 @@
     },
     "yadvad": {
         "city": "yadvad",
-        "accentcity": "Yádvád",
+        "accentcity": "Yï¿½dvï¿½d",
         "region": "19",
         "population": null,
         "latitude": "16.233333",
